@@ -2,6 +2,8 @@
 
 **Note:** These libraries are still subject to change.
 
+**Update 23.01.2020.** WIP - This is jglTF port for Android. Major changes will be in jgltf-viewer and new GLES20 implementation.
+
 ## What is glTF?
 
 The following image gives an overview of glTF:
